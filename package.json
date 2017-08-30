@@ -4,7 +4,7 @@
   "description": "travis playground tutorial",
   "main": "hello.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt --verbose"
   },
   "author": "jarod <firius87@gmail.com>",
   "license": "ISC",
